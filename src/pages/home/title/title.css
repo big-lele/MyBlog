@@ -1,0 +1,16 @@
+.title{
+    position: relative;
+    top: 180px;
+    width: 100%;
+    height: 150px;
+}
+.text{
+    position: relative;
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 0;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 180px;
+    color: #078c07;
+    text-align: left;
+ }

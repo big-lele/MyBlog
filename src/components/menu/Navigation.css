@@ -1,0 +1,26 @@
+.menu-link,
+.menu-link-active {
+    width: 300px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: normal;
+    color: aqua;
+
+    text-align: center;
+}
+
+.menu-link {
+    width: 300px;
+    color: red;
+}
+
+.menu-link-active {
+    color: #9e9f9d;
+    text-align: center;
+}
+
+.menu-link:hover,
+.menu-link-active:hover {
+    color: green;
+    text-decoration: none;
+}
