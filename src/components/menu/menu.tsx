@@ -9,14 +9,16 @@ export const Menu = () => {
             <Row align={"middle"} justify={"center"} className={"avatar"}>
             </Row>
             <div className={"menu-content"}>
-                <div className={'navigation-block'}>
-                    <Navigation title={'Home'} link={'./'}/>
-                </div>
-                <div className={'navigation-block'}>
-                    <Navigation title={'About Me'} link={'./'}/>
-                </div>
-                <div className={'navigation-block'}>
-                    <Navigation title={'Resume'} link={'./'}/>
+                <div className={"navigation-content"}>
+                    <div className={'navigation-block'}>
+                        <Navigation title={'Home'} link={'/'}/>
+                    </div>
+                    <div className={'navigation-block'}>
+                        <Navigation title={'About Me'} link={'/aboutme'}/>
+                    </div>
+                    <div className={'navigation-block'}>
+                        <Navigation title={'Publications'} link={'/publications'}/>
+                    </div>
                 </div>
             </div>
         </Row>

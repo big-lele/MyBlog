@@ -1,16 +1,16 @@
 .title{
     position: relative;
-    top: 180px;
+    top: 130px;
     width: 100%;
     height: 150px;
 }
-.text{
+.home-text{
     position: relative;
     width: 90%;
-    margin-left: 20px;
+    margin-left: 50px;
     margin-top: 0;
     font-family: Brush Script MT, Brush Script Std, cursive;
-    font-size: 180px;
-    color: #078c07;
+    font-size: 100px;
+    color: #ffffff;
     text-align: left;
  }

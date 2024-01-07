@@ -2,25 +2,25 @@
 .menu-link-active {
     width: 300px;
     font-weight: 500;
-    font-size: 30px;
+    font-size: 40px;
     line-height: normal;
-    color: aqua;
-
+    color: #f4f4f5;
+    font-family: Comic Sans MS, Comic Sans, cursive;
     text-align: center;
 }
 
 .menu-link {
     width: 300px;
-    color: red;
+    color: #f4f4f5;
 }
 
 .menu-link-active {
-    color: #9e9f9d;
+    color: #f4f4f5;
     text-align: center;
 }
 
 .menu-link:hover,
 .menu-link-active:hover {
-    color: green;
+    color: #033d03;
     text-decoration: none;
 }

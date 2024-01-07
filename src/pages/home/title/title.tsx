@@ -27,10 +27,10 @@ export const Title = () => {
 
     return (
         <Row align={"middle"} justify={"center"} className={"title"}>
-            <Row className={"text"}>
+            <Row className={"home-text"}>
                 {text1}
             </Row>
-            <Row className={"text"}>
+            <Row className={"home-text"}>
                 {text2}
             </Row>
         </Row>
