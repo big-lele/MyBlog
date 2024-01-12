@@ -60,7 +60,7 @@ const AboutMe = () => {
                                     <a href="https://www.sysu.edu.cn/" target="_blank" className="sysu">
                                     </a>
                                     <div className={"text"}>
-                                        MA.Eng in Computer Science and Technology
+                                        M.Eng in Computer Science and Technology
                                     </div>
                                     <div className={"text"}>
                                         Sep.2022-Present Guangzhou
