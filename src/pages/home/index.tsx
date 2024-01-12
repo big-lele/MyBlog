@@ -12,6 +12,9 @@ const Home: FC = () => {
             <div className={"home-content"}>
                 <div className={"home-photo"}>
                     <Title/>
+                    <div className={"home-icp"}>
+                        <a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2024042247号</a>
+                    </div>
                 </div>
             </div>
         </Row>

@@ -16,4 +16,15 @@
   margin-left: 400px;
   background-image: url("./data/home_photo.GIF");
   background-size:cover;
+
+}
+
+.home-icp{
+  position: relative;
+  margin-top: 510px;
+  margin-left: 90px;
+  width: 250px;
+  height: 30px;
+  color: #ffffff;
+  font-size: 20px;
 }
